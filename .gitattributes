@@ -1,1 +1,2 @@
-*.fish linguist-language=><>
+# We can't add our own github-linguist language for ><>, so it's easiest to not detect those files
+*.fish -linguist-detectable
