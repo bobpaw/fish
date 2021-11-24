@@ -1,6 +1,8 @@
-l2(?;:{:})?r>   :?\&:}1>l  4  )?\&;
-            ]     2    \&$+&*@\ 4
-            %     [    /-{,&]:/ [
-            \$}:{:/    \{{@:{:{&/
-
-Eventually an Extended Euclidean Algorithm Evaluator. Currently a work in progress.
+v An extended Euclidean algorithm
+  By Aiden Woodruff
+\l2(?;: {\/@{{{0[0"("0") + "\    /n{~\
+   /r?)}:/\{{@:{:}}}&\/0"("0/     / o\
+/%]>:?\&:}1>l  4  )?\/\") = "0 \     ?
+$     2    \&$+&*@\ 4/"(dcg = "/ \v  : 
+\}:{:[/    /-{,&]:/ [\0", "0")."r]>l?/;
+           \{{@:{:{&/
