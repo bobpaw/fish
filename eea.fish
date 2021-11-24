@@ -1,5 +1,5 @@
 v An extended Euclidean algorithm
-  By Aiden Woodruff
+  By Aiden Woodruff (c) 2021
 \l2(?;: {\/@{{{0[0"("0") + "\    /n{~\
    /r?)}:/\{{@:{:}}}&\/0"("0/     / o\
 /%]>:?\&:}1>l  4  )?\/\") = "0 \     ?
